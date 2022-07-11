@@ -98,6 +98,7 @@ webapp built in Next.js that allows users to write and vote on pieces of writing
 Distributed under the CC0 License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
